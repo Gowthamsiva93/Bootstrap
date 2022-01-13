@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0%;
+  background: cadetblue;
+}
+.header {
+  height: 100vh;
+}
+.navbar-style {
+  box-shadow: 0 5px 10px #efefef;
+  text-transform: unset;
+  font-style: italic;
+}
+.logo {
+  height: 45px;
+}
+.icon-bar {
+  background: darkgoldenrod;
+}
+li a {
+  color: black;
+}
+.big-text {
+  font-size: 53px;
+  margin: 20px 0;
+  color: black;
+}
+.small-text {
+  font-size: 30px;
+  font-style: italic;
+}
+a.btn {
+  margin: 30px;
+  width: 150px;
+  padding: 10px;
+  border-radius: 20px;
+}
+a.btn-first {
+  background: transparent;
+  border: 1px solid gray;
+  color: gray;
+}
+a.btn-second {
+  background: grey;
+  color: #efefef;
+}
+a.btn:hover {
+  background: gray;
+  border: none;
+  color: blanchedalmond;
+  box-shadow: 5px 5px 10px #999;
+}
+.banner-img,
+.banner-info {
+  margin: 50px 0;
+}
